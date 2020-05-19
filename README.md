@@ -21,4 +21,4 @@ dev_dependencies:
     <t>build_runner: ^1.10.0</t>
   
 ### Initialize
-    <t>Hive.initFlutter();</t>
+    Hive.initFlutter();
