@@ -3,7 +3,6 @@
 A new Flutter application.
 
 # Document Hive
-<br></br>
 https://docs.hivedb.dev/#/README
 
 ## Getting Started
