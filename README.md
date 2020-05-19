@@ -11,16 +11,16 @@ https://docs.hivedb.dev/#/README
 ### Add to project 
 dependencies:
 <br></br>
-  </t>hive: ^1.4.1+1
+  <t>hive: ^1.4.1+1</t>
  <br></br>
-  hive_flutter: ^0.3.0+2
+  <t>hive_flutter: ^0.3.0+2</t>
 
 dev_dependencies:
 <br></br>
-  hive_generator: ^0.7.0+2
+  <t>hive_generator: ^0.7.0+2</t>
  <br></br>
-  build_runner: ^1.10.0
+  <t>build_runner: ^1.10.0</t>
   
 ### Initialize
 <br></br>
-  Hive.initFlutter();
+  <t>Hive.initFlutter();</t>
