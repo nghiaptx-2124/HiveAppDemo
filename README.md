@@ -11,7 +11,7 @@ https://docs.hivedb.dev/#/README
 ### Add to project 
 dependencies:
 <br></br>
-  hive: ^1.4.1+1
+  </t>hive: ^1.4.1+1
  <br></br>
   hive_flutter: ^0.3.0+2
 
