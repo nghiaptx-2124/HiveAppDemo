@@ -1,4 +1,4 @@
-# hivedemo
+# Hive database
 
 A new Flutter application.
 
